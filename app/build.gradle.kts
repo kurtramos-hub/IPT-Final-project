@@ -9,7 +9,11 @@ android {
 
     defaultConfig {
         applicationId = "com.example.grocerylistapp"
+<<<<<<< HEAD
         minSdk = 34
+=======
+        minSdk = 24
+>>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"

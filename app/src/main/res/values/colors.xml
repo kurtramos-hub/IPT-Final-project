@@ -17,5 +17,8 @@
         <color name="windowBackground">#F5F5F5</color> <!-- Light gray background -->
         <color name="buttonText">#FFFFFF</color>
         <color name="logoutButtonBackground">#F44336</color> <!-- A red for logout -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
     </resources>

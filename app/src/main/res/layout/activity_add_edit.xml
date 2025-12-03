@@ -8,14 +8,23 @@
 
     <EditText
         android:id="@+id/etItemName"
+<<<<<<< HEAD
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Item name"
         android:minHeight="48dp" />
+=======
+        android:hint="Item name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        />
+>>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
 
 
     <EditText
         android:id="@+id/etQuantity"
+<<<<<<< HEAD
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Quantity"
@@ -35,6 +44,21 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="Back" />
+=======
+        android:hint="Quantity"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        />
+
+
+    <Button
+        android:id="@+id/btnSave"
+        android:text="Save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+>>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
 
 
 </LinearLayout>
