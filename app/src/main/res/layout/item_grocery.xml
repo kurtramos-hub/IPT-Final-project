@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:text="Edit"
         android:layout_marginStart="8dp"
-        android:minHeight="48dp"/>  <!-- Added for better touch target -->
+        android:minHeight="48dp"/>
 
     <Button
         android:id="@+id/btnDeleteItem"
@@ -42,6 +42,6 @@
         android:layout_height="wrap_content"
         android:text="Delete"
         android:layout_marginStart="8dp"
-        android:minHeight="48dp"/> <!-- Added for better touch target -->
+        android:minHeight="48dp"/>
 
 </LinearLayout>

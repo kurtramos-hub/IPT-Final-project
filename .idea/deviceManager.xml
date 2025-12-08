@@ -5,18 +5,6 @@
       <list>
         <ColumnSorterState>
           <option name="column" value="Name" />
-<<<<<<< HEAD
-          <option name="order" value="ASCENDING" />
-=======
-          <option name="order" value="DESCENDING" />
->>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
-        </ColumnSorterState>
-        <ColumnSorterState>
-          <option name="column" value="API" />
-          <option name="order" value="DESCENDING" />
-        </ColumnSorterState>
-        <ColumnSorterState>
-          <option name="column" value="Type" />
           <option name="order" value="ASCENDING" />
         </ColumnSorterState>
       </list>
