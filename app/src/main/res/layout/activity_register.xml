@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     xmlns:app="http://schemas.android.com/apk/res-auto"
+=======
+<<<<<<< HEAD
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+=======
+>>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
+>>>>>>> 873bff10e629059db8520d58dd18e8178813b5f6
     android:orientation="vertical"
     android:padding="24dp"
     android:gravity="center"
     android:layout_width="match_parent"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 873bff10e629059db8520d58dd18e8178813b5f6
     android:layout_height="match_parent"
     android:background="@drawable/glossy_background">
 
@@ -126,4 +137,45 @@
 
     </LinearLayout>
 
+<<<<<<< HEAD
 </LinearLayout>
+=======
+=======
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etName"
+        android:hint="Full name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:inputType="textPersonName|textCapWords"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:hint="Password (6+ char)"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp"
+        android:layout_marginBottom="24dp"/>
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:text="Register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp" />
+>>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
+</LinearLayout>
+>>>>>>> 873bff10e629059db8520d58dd18e8178813b5f6

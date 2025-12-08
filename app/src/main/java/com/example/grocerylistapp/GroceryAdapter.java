@@ -88,7 +88,15 @@ public class GroceryAdapter extends RecyclerView.Adapter<GroceryAdapter.GroceryV
             btnEdit.setVisibility(View.VISIBLE);
             btnDelete.setVisibility(View.VISIBLE);
 
+<<<<<<< HEAD
             tvItemName.setText(item.getName());
+=======
+<<<<<<< HEAD
+            tvItemName.setText(item.getItem());
+=======
+            tvItemName.setText(item.getName());
+>>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
+>>>>>>> 873bff10e629059db8520d58dd18e8178813b5f6
             tvItemQuantity.setText("Qty: " + item.getQuantity());
 
             if (listener != null) {

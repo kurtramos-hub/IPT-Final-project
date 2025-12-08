@@ -15,6 +15,14 @@ public class FirebaseUtils {
             throw new IllegalStateException("No user logged in");
         return db.getReference("users")
                 .child(auth.getCurrentUser().getUid())
+<<<<<<< HEAD
                 .child("groceries");
+=======
+<<<<<<< HEAD
+                .child("Users");
+=======
+                .child("groceries");
+>>>>>>> 1dff3c344a2083488f6992bc02c8ba79f81ae847
+>>>>>>> 873bff10e629059db8520d58dd18e8178813b5f6
     }
 }
